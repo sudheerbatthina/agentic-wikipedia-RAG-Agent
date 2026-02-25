@@ -1,0 +1,25 @@
+# Core agentic / RAG stack (matches notebook install cell)
+backoff
+langchain
+langchain-community
+langgraph==0.5.3
+faiss-cpu
+wikipedia
+sentence-transformers
+chromadb
+langchain-huggingface
+langchain-chroma
+
+# Observability (lightweight)
+mlflow
+
+# Utilities
+python-dotenv
+rich
+
+# Diagram generation
+matplotlib
+
+# Local notebook runtime
+jupyter
+ipykernel
